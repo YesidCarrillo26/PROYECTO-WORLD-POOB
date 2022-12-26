@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Walled
+comment0.text=\r\n\ Clase\ que\ crea\ una\ Nacion\ de\ tipo\ Walled\r\n\ \r\n
+comment1.params=_color\ _x\ _y\ _armies
+comment1.target=Walled(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NormalNation\r\n
+comment2.params=_posX\ _posY\ _randColor\ _currentArmies\ _armiesToDominate
+comment2.target=Walled(int,\ int,\ java.lang.Integer,\ int,\ int)
+comment2.text=\r\n\ Constructor\ \#2\ for\ objects\ of\ class\ NormalNation\r\n
+comment3.params=_armies
+comment3.target=void\ delArmy(java.util.ArrayList)
+comment3.text=\r\n\ Metodo\ para\ eliminar\ las\ armies\r\n\ @param\ _armies\:\ ArrayList<Army>,\ elimina\ las\ armies\ del\ arreglo\r\n
+comment4.params=_newArmies
+comment4.target=void\ setnArmies(int)
+comment4.text=\r\n\ Metodo\ de\ setea\ las\ nArmies\r\n\ @param\ _newArmies\:\ int,\ nuevas\ armies\ de\ la\ nation\r\n
+comment5.params=
+comment5.target=int\ getnArmiesType()
+comment5.text=\r\n\ Metodo\ para\ obtener\ el\ n\u00FAmero\ de\ armies\ seg\u00FAn\ naci\u00F3n\ Walled\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NormalRoute
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NormalRoute\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=_nation1\ _nation2\ _cost
+comment1.target=NormalRoute(Nation,\ Nation,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NormalRoute\r\n
+comment2.params=_newCost
+comment2.target=int\ setCost(int)
+comment2.text=\r\n\ Setea\ el\ costo\ de\ la\ ruta\r\n\ @param\ _newCost\:\ int,\ el\ nuevo\ costRuta\r\n
+numComments=3
